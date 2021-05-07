@@ -1,2 +1,1 @@
-# Sorting-algorithm-report-source-codes
-Source codes of the LaTeX project and the algorithms 
+i called eahc algorithm at once and changed the size of the arrays accordingly, it was hard and dumb but thats who i am 
