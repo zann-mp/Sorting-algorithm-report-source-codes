@@ -1,1 +1,1 @@
-i called each algorithm at once and changed the size of the arrays accordingly, it was hard and dumb but thats who i am 
+I called each algorithm 5 times for each file, after switching files you also have to switch the data of the array and the for loop (dont judge)
